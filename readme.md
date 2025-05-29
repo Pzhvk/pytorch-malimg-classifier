@@ -79,4 +79,4 @@ The script will:
 
 ## License
 
-This project is open-source and available under the [Apache License 2.0](LICENSE). (You would need to create a `LICENSE` file with MIT license text if you choose this).
+This project is open-source and available under the [Apache License 2.0](LICENSE).
